@@ -1,0 +1,8 @@
+{
+  "name": "eje10",
+  "app_id": "49abe920",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
